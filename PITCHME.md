@@ -1,4 +1,5 @@
 ---
+@fa[arrow-down text-black]
 +++?image=template/img/bg/black&position=right&size=50% 100% @title[Heading + List Body]
 
 @snap[west text-black span-50]
